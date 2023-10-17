@@ -19,7 +19,7 @@ a=3
 b=1
 c=2
 
-NOTE:
+Note:
 1. Accept only integers
 2. Must use pointers to swap numbers
 2. Display a,b,c on separate lines
