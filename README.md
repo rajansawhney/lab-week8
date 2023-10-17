@@ -1,12 +1,14 @@
 # ICS 212
-## Lab - Week 7
+## Lab - Week 9
 
 # Functions
 
 ### Assignment:
-- Update average.c and 3d-array.c following assignment description provided in LabAssignment_Week7.pdf (uploaded on Laulima) - graded
+- Update programs following assignment description provided in LabAssignment_Week9.pdf (uploaded on Laulima)
 
-**NOTE**: Github is not a place to test your code. Test it on your machines first. Autograding will be disabled if you exceed 10 commits. We will start out by sending emails to you personally if you exceed 10 commits, and eventually penalizing your grade.
+**NOTE**: 
+- Github is not a place to test your code. Test it on your machines first. Do not exceed 10 commits. If you exceed 10 commits, your grade will be penalized.
+- Do not edit Makefile, test.sh, and files in test folder
 
 ### Steps to submit changes:
 1. Click on desired .c to open file
