@@ -33,8 +33,8 @@ echo "Cyclic swap..."
 
 output_cyclic_swap=$(./cyclic_swap <test/input_cyclic_swap)
 echo $output_cyclic_swap
-expected_output_cyclic_swap="a=1 
-b=2 
+expected_output_cyclic_swap="a=1
+b=2
 c=3"
 
 if [ $? -eq 0 ] ; then
