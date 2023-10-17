@@ -21,7 +21,7 @@ You entered:
 
 Note:
 1. Accept integers as array elements. Array size is set to 5 (do not accept array size)
-2. Use pointers to accept and print elements of the array
+2. Must use pointers to accept and print elements of the array
 3. Display each element of the array on a new line
 
 */
