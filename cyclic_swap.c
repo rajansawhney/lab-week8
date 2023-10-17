@@ -21,6 +21,7 @@ c=2
 
 NOTE:
 1. Accept only integers
+2. Must use pointers to swap numbers
 2. Display a,b,c on separate lines
 
 */

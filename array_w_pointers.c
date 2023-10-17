@@ -11,6 +11,7 @@ Enter elements:
 3
 4
 5
+
 You entered:
 1
 2
@@ -20,5 +21,7 @@ You entered:
 
 Note:
 1. Accept integers as array elements. Array size is set to 5 (do not accept array size)
-2. Display each element of the array on a new line
+2. Use pointers to accept and print elements of the array
+3. Display each element of the array on a new line
+
 */
