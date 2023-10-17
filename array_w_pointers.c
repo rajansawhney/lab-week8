@@ -19,6 +19,6 @@ You entered:
 5
 
 Note:
-1. Accept integers as array elements
+1. Accept integers as array elements. Array size is set to 5 (do not accept array size)
 2. Display each element of the array on a new line
 */
